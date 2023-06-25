@@ -16,11 +16,11 @@ const socials = [
   },
   {
     icon: faGithub,
-    url: "https://github.com",
+    url: "https://github.com/omar-sajid6627",
   },
   {
     icon: faLinkedin,
-    url: "https://www.linkedin.com",
+    url: "https://www.linkedin.com/in/omar-sajid2411/",
   },
   {
     icon: faMedium,
